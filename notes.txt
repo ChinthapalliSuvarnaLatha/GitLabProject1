@@ -4,3 +4,6 @@ Git Version Control Lab
 - It helps track changes in files.
 - GitHub is used as a remote repository.
 
+Feature Update:
+- Added new feature description.
+
