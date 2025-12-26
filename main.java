@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to Git Version Control Lab");
+        System.out.println("Bug fixed in Git lab program");
     }
 }
+
